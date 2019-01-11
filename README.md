@@ -1,0 +1,2 @@
+# super-mongius-bot
+bot
